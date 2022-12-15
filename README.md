@@ -1,8 +1,7 @@
-<h1 align="center">Luiz Filipe de Sousa Batista </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Luiz+Filipe+de+Sousa+Batista&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-Engenheiro Civil em busca de uma oportunidade para mudar o mundo positivamente, utilizando a ciência de dados.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Dream+is+Make+The+World;A+Better+Place+With+Data+Science!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
 
 <div align="center">
   <a href="https://github.com/lfilipesousa">
@@ -12,11 +11,11 @@ Engenheiro Civil em busca de uma oportunidade para mudar o mundo positivamente, 
  
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="LB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LB-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="LB-Jup" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="LB-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="LB-Github" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="LB-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="LB-Sql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="LB-Jup" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="LB-Vscode" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="LB-Github" height="75" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   
   </div>
   
@@ -29,3 +28,7 @@ Engenheiro Civil em busca de uma oportunidade para mudar o mundo positivamente, 
   <a href="https://instagram.com/l.filipesousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+
+![Snake animation](https://github.com/lfilipesousa/lfilipesousa/blob/output/github-contribution-grid-snake.svg)
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
