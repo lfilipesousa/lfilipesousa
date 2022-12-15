@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39894d&height=120&section=header&text=Luiz+Filipe+de+Sousa+Batista&fontSize=30&fontColor=999999&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39894d&height=120&section=header&text=Luiz+Filipe+de+Sousa+Batista&fontSize=30&fontColor=444444&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5b5b5b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Dream+is+Make+The+World;A+Better+Place+With+Data+Science!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://github.com/lfilipesousa">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lfilipesousa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lfilipesousa&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> 
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfilipesousa&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  
