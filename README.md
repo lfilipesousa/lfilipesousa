@@ -1,8 +1,9 @@
 <h1 align="center">Luiz Filipe de Sousa Batista </h1>
 
-Engenheiro Civil em busca de uma oportunidade para mudar o mundo positivamente, de alguma forma, utilizando a ciência de dados.
+Engenheiro Civil em busca de uma oportunidade para mudar o mundo positivamente, utilizando a ciência de dados.
 
 <br>
+
 <div align="center">
   <a href="https://github.com/lfilipesousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfilipesousa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
